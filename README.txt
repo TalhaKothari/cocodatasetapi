@@ -15,6 +15,3 @@ To install:
 -For Lua, run “luarocks make LuaAPI/rocks/coco-scm-1.rockspec” under coco/
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TalhaKothari/cocodatasetapi/master)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/TalhaKothari/cocodatasetapi/master
